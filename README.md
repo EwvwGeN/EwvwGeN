@@ -1,8 +1,12 @@
 <div id="header" align="center">
   <h1>Hi, I'm Evgeny Smurov<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3>Junior Golang developer</h3>
-  <img alt="Telegram" src="https://img.shields.io/badge/%20%40sociopathevgei-telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Fsociopathevgei">
-  <img alt="Discord" src="https://img.shields.io/badge/ewgen-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F336917784661458963">
+  <a href="https://t.me/sociopathevgei">
+    <img alt="Telegram" href="t.me/sociopathevgei" src="https://img.shields.io/badge/%20%40sociopathevgei-telegram-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://discordapp.com/users/336917784661458963">
+    <img alt="Discord" src="https://img.shields.io/badge/ewgen-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F336917784661458963">
+  </a>
 </div>
 </br>
 
