@@ -5,7 +5,7 @@
     <img alt="Telegram" href="t.me/sociopathevgei" src="https://img.shields.io/badge/%20%40sociopathevgei-telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://discordapp.com/users/336917784661458963">
-    <img alt="Discord" src="https://img.shields.io/badge/ewgen-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F336917784661458963">
+    <img alt="Discord" src="https://img.shields.io/badge/ewgen-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
   </a>
 </div>
 </br>
