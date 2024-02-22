@@ -43,5 +43,5 @@
   <img alt="gofakeit" src="https://img.shields.io/badge/gofakeit-orange?style=for-the-badge">
   <img alt="jwt" src="https://img.shields.io/badge/jwt-black?style=for-the-badge">
   <img alt="testify" src="https://img.shields.io/badge/testify-gray?style=for-the-badge">
-  
+  <img alt="otel" src="https://img.shields.io/badge/otel-728FCE?style=for-the-badge">
 </div>
