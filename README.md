@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi, I'm Evgeny Smurov<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3>Junior Golang developer</h3>
-  <a href="https://t.me/sociopathevgei">
+  <a href="https://t.me/sociopathevgen">
     <img alt="Telegram" href="t.me/sociopathevgen" src="https://img.shields.io/badge/%20%40sociopathevgen-telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://discordapp.com/users/336917784661458963">
