@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I'm Evgeny Smurov<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3>Junior Golang developer</h3>
+  <h3>Golang developer</h3>
   <a href="https://t.me/sociopathevgen">
     <img alt="Telegram" href="t.me/sociopathevgen" src="https://img.shields.io/badge/%20%40sociopathevgen-telegram-blue?style=for-the-badge&logo=telegram">
   </a>
@@ -33,6 +33,7 @@
   <img alt="mongoe" src="https://img.shields.io/badge/mongoDB-darkgreen?style=for-the-badge">
   <img alt="reindexer" src="https://img.shields.io/badge/reindexer-gray?style=for-the-badge">
   <img alt="mysql" src="https://img.shields.io/badge/mysql-lightblue?style=for-the-badge">
+  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-728FCE?style=for-the-badge">
   
   <h3>Golang packages</h3>
   <img alt="mux" src="https://img.shields.io/badge/gorilla/mux-gray?style=for-the-badge">
